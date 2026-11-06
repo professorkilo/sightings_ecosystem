@@ -23,7 +23,7 @@ plotly = "4.14.3"
 psycopg2-binary = "2.8.6"
 scipy = "^1.15.2"
 wait-for-it = "2.2.1"
-werkzeug = "2.0.0"
+werkzeug = "3.1.9"
 
 [tool.poetry.group.docs]
 optional = true
